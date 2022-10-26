@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ottifest.de/static/css/main.3281f5e0.css",
-    "main.js": "/ottifest.de/static/js/main.896ad9cf.js",
-    "static/js/787.0b6e9c88.chunk.js": "/ottifest.de/static/js/787.0b6e9c88.chunk.js",
-    "static/media/outline.svg": "/ottifest.de/static/media/outline.823ed0cebb9cca598d4a55b7e374d681.svg",
-    "index.html": "/ottifest.de/index.html",
-    "main.3281f5e0.css.map": "/ottifest.de/static/css/main.3281f5e0.css.map",
-    "main.896ad9cf.js.map": "/ottifest.de/static/js/main.896ad9cf.js.map",
-    "787.0b6e9c88.chunk.js.map": "/ottifest.de/static/js/787.0b6e9c88.chunk.js.map"
+    "main.css": "/static/css/main.3281f5e0.css",
+    "main.js": "/static/js/main.e0a1721b.js",
+    "static/js/787.0b6e9c88.chunk.js": "/static/js/787.0b6e9c88.chunk.js",
+    "static/media/outline.svg": "/static/media/outline.823ed0cebb9cca598d4a55b7e374d681.svg",
+    "index.html": "/index.html",
+    "main.3281f5e0.css.map": "/static/css/main.3281f5e0.css.map",
+    "main.e0a1721b.js.map": "/static/js/main.e0a1721b.js.map",
+    "787.0b6e9c88.chunk.js.map": "/static/js/787.0b6e9c88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3281f5e0.css",
-    "static/js/main.896ad9cf.js"
+    "static/js/main.e0a1721b.js"
   ]
 }
