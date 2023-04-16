@@ -13,8 +13,7 @@ function ExplainerComponent(props: ExplainerComponentProps) {
             'justify-content-center gap-2 ' +
             'mx-2 mx-sm-0 ' +
             'mb-3'}>
-            Das Ottifest 2023 steht an!
-            und ihr dürft abstimmen, was es dieses Mal zu essen gibt
+            Das Ottifest 2023 steht an und ihr dürft abstimmen, was es dieses Mal zu essen gibt
         </div>
     );
 };
