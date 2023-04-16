@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.28646d6a.css",
-    "main.js": "/static/js/main.d25cc4f7.js",
-    "index.html": "/index.html",
-    "main.28646d6a.css.map": "/static/css/main.28646d6a.css.map",
-    "main.d25cc4f7.js.map": "/static/js/main.d25cc4f7.js.map"
+    "main.css": "/ottifest.de/static/css/main.28646d6a.css",
+    "main.js": "/ottifest.de/static/js/main.d25cc4f7.js",
+    "index.html": "/ottifest.de/index.html",
+    "main.28646d6a.css.map": "/ottifest.de/static/css/main.28646d6a.css.map",
+    "main.d25cc4f7.js.map": "/ottifest.de/static/js/main.d25cc4f7.js.map"
   },
   "entrypoints": [
     "static/css/main.28646d6a.css",
